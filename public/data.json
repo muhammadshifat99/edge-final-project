@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://www.cnet.com/a/img/resize/1f675087cca10bdf62a7fa1c371b70576e34bd88/hub/2022/01/04/e5d0bb69-5892-4a9f-9e96-6caa997e39f5/img-7289.jpg?auto=webp&fit=crop&height=362&width=644",
+    "category": "Laptop",
+    "price": 1099,
+    "description": "Dell XPS 13 with 13.3-inch display, Intel Core i7, and 16GB RAM.",
+    "specification": {
+      "display": "13.3-inch FHD",
+      "processor": "Intel Core i7",
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "battery": "10 hours"
+    },
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://img-cdn.tnwcdn.com/image?fit=1200%2C675&height=675&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FHP-Spectre-x360-14-1-of-7.jpg&signature=be2373b43e1088c3457ffd4f53fd987a",
+    "category": "Laptop",
+    "price": 1199,
+    "description": "HP Spectre x360 convertible laptop with 13-inch display, Intel i5, and 8GB RAM.",
+    "specification": {
+      "display": "13-inch FHD",
+      "processor": "Intel Core i5",
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "battery": "12 hours"
+    },
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.rtings.com/assets/products/uZij7haa/lenovo-thinkpad-x1-carbon-gen-11-2023/design-medium.jpg?format=auto",
+    "category": "Laptop",
+    "price": 1249,
+    "description": "Lenovo ThinkPad X1 Carbon with 14-inch display, Intel i7, 16GB RAM, 1TB SSD.",
+    "specification": {
+      "display": "14-inch FHD",
+      "processor": "Intel Core i7",
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "battery": "15 hours"
+    },
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "product_title": "Apple MacBook Air M1",
+    "product_image": "https://cdn.mos.cms.futurecdn.net/gPvyaz76tASn87RCGuSdDc-1200-80.jpg",
+    "category": "Laptop",
+    "price": 999,
+    "description": "Apple MacBook Air with M1 chip, 13-inch Retina display, 8GB RAM, and 256GB SSD.",
+    "specification": {
+      "display": "13-inch Retina",
+      "processor": "Apple M1",
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "battery": "18 hours"
+    },
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRymYNnV0fe6UzvvOuC7z8PoZE_1C_uT-cZg&s",
+    "category": "Laptop",
+    "price": 1449,
+    "description": "ASUS ROG Zephyrus G14 gaming laptop with Ryzen 9, 16GB RAM, 1TB SSD.",
+    "specification": {
+      "display": "14-inch QHD",
+      "processor": "AMD Ryzen 9",
+      "RAM": "16GB",
+      "storage": "1TB SSD",
+      "battery": "11 hours"
+    },
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://cdn.mos.cms.futurecdn.net/BPUwy4cU5nxnrAP98cBba3.jpg",
+    "category": "Laptop",
+    "price": 1299,
+    "description": "Microsoft Surface Laptop 4 with Intel i5, 8GB RAM, and 512GB SSD.",
+    "specification": {
+      "display": "13.5-inch PixelSense",
+      "processor": "Intel Core i5",
+      "RAM": "8GB",
+      "storage": "512GB SSD",
+      "battery": "14.5 hours"
+    },
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://m-cdn.phonearena.com/images/review/4948-wide-two_1200/Samsung-Galaxy-S21-review.jpg",
+    "category": "Phone",
+    "price": 799,
+    "description": "Samsung Galaxy S21 with 6.2-inch AMOLED display, Snapdragon 888, and 128GB storage.",
+    "specification": {
+      "display": "6.2-inch AMOLED",
+      "processor": "Snapdragon 888",
+      "RAM": "8GB",
+      "storage": "128GB",
+      "battery": "4000mAh"
+    },
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "product_title": "iPhone 13 Pro",
+    "product_image": "https://i.ytimg.com/vi/TnkdoEZhTbc/maxresdefault.jpg",
+    "category": "Phone",
+    "price": 999,
+    "description": "Apple iPhone 13 Pro with 6.1-inch Super Retina XDR, A15 Bionic chip, 128GB storage.",
+    "specification": {
+      "display": "6.1-inch Super Retina XDR",
+      "processor": "A15 Bionic",
+      "RAM": "6GB",
+      "storage": "128GB",
+      "battery": "3095mAh"
+    },
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "product_title": "Google Pixel 6",
+    "product_image": "https://m-cdn.phonearena.com/images/review/5269-wide-two_1200/Google-Pixel-6-review-best-features.jpg",
+    "category": "Phone",
+    "price": 699,
+    "description": "Google Pixel 6 with 6.4-inch OLED display, Google Tensor chip, and 128GB storage.",
+    "specification": {
+      "display": "6.4-inch OLED",
+      "processor": "Google Tensor",
+      "RAM": "8GB",
+      "storage": "128GB",
+      "battery": "4600mAh"
+    },
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series7-availability_hero_10052021_big.jpg.large.jpg",
+    "category": "Smart Watch",
+    "price": 399,
+    "description": "Apple Watch Series 7 with always-on Retina display and health tracking.",
+    "specification": {
+      "display": "1.9-inch Retina",
+      "battery": "18 hours",
+      "health_features": [
+        "Heart rate monitor",
+        "ECG",
+        "Blood oxygen"
+      ]
+    },
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2021/08/Samsung_Galaxy_Watch_4_Classic-Featured_Image_Lifestyle_01_2032176548-Web.jpg",
+    "category": "Smart Watch",
+    "price": 349,
+    "description": "Samsung Galaxy Watch 4 with AMOLED display and advanced health tracking.",
+    "specification": {
+      "display": "1.4-inch AMOLED",
+      "battery": "40 hours",
+      "health_features": [
+        "Heart rate monitor",
+        "Blood oxygen",
+        "Sleep tracking"
+      ]
+    },
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "product_title": "MacBook Pro 14-inch M1 Pro",
+    "product_image": "https://cdn.shopify.com/s/files/1/0306/8677/products/apple-macbook-pro-14-inch-macbook-pro-14-inch-m1-pro-10-core-silver-2021-excellent-40236859490620.jpg",
+    "category": "MacBook",
+    "price": 1999,
+    "description": "MacBook Pro with 14-inch Liquid Retina XDR, M1 Pro chip, 16GB RAM, and 512GB SSD.",
+    "specification": {
+      "display": "14-inch Liquid Retina XDR",
+      "processor": "Apple M1 Pro",
+      "RAM": "16GB",
+      "storage": "512GB SSD",
+      "battery": "17 hours"
+    },
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 13,
+    "product_title": "MacBook Air M2",
+    "product_image": "https://www.cnet.com/a/img/resize/aba646bbfefdaae2a6aed6d516512f33e3b3a0c9/hub/2022/07/12/995173ef-de01-45be-a714-c5d581f4bd5c/macbook-air-m2-2022-2.jpg?auto=webp&width=1200",
+    "category": "MacBook",
+    "price": 1199,
+    "description": "MacBook Air with M2 chip, 13.6-inch Retina display, 8GB RAM, and 256GB SSD.",
+    "specification": {
+      "display": "13.6-inch Retina",
+      "processor": "Apple M2",
+      "RAM": "8GB",
+      "storage": "256GB SSD",
+      "battery": "18 hours"
+    },
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "product_title": "iPhone 14",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6A64ulwU8FbYvxfPRZrK-iQ1T4vdPGVncVQ&s",
+    "category": "iPhone",
+    "price": 799,
+    "description": "Apple iPhone 14 with 6.1-inch Super Retina XDR display, A15 Bionic chip, and 128GB storage.",
+    "specification": {
+      "display": "6.1-inch Super Retina XDR",
+      "processor": "A15 Bionic",
+      "RAM": "6GB",
+      "storage": "128GB",
+      "battery": "3279mAh"
+    },
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ytimg.com/vi/q6OnnwUBEhI/maxresdefault.jpg",
+    "category": "iPhone",
+    "price": 699,
+    "description": "Apple iPhone 13 with 6.1-inch display, A15 Bionic chip, 128GB storage.",
+    "specification": {
+      "display": "6.1-inch Super Retina XDR",
+      "processor": "A15 Bionic",
+      "RAM": "4GB",
+      "storage": "128GB",
+      "battery": "3240mAh"
+    },
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "product_title": "Logitech MX Master 3 Wireless Mouse",
+    "product_image": "https://cdn.mos.cms.futurecdn.net/KmVUTGRLkDywKE7p2oiSH8-1200-80.jpg",
+    "category": "Accessory",
+    "price": 99,
+    "description": "Ergonomic wireless mouse with precise scrolling, customizable buttons, and fast charging.",
+    "specification": {
+      "connectivity": "Bluetooth / USB receiver",
+      "battery_life": "70 days per charge",
+      "dpi": "4000",
+      "features": [
+        "Ergonomic design",
+        "USB-C fast charging",
+        "Cross-computer control"
+      ]
+    },
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 17,
+    "product_title": "Anker PowerCore 10000 Portable Charger",
+    "product_image": "https://i.pcmag.com/imagery/reviews/064fmL9zlIyPId4HGOB2OT3-3..v1569477976.jpg",
+    "category": "Accessory",
+    "price": 29,
+    "description": "Compact 10000mAh portable charger with high-speed charging for smartphones and tablets.",
+    "specification": {
+      "capacity": "10000mAh",
+      "output": "5V/2.4A",
+      "weight": "180g",
+      "features": [
+        "Compact design",
+        "High-speed charging",
+        "MultiProtect safety system"
+      ]
+    },
+    "availability": false,
+    "rating": 4.7
+  }
+]
